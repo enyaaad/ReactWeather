@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/enyaaad/ReactWeather/static/css/main.fb6f56e6.css",
+    "main.js": "/enyaaad/ReactWeather/static/js/main.61c7f175.js",
+    "static/media/cloudy-day.png": "/enyaaad/ReactWeather/static/media/cloudy-day.76b4ea9c61f0be2a608a.png",
+    "static/media/snowy.png": "/enyaaad/ReactWeather/static/media/snowy.98ac7ea7b38a17baeb39.png",
+    "index.html": "/enyaaad/ReactWeather/index.html",
+    "main.fb6f56e6.css.map": "/enyaaad/ReactWeather/static/css/main.fb6f56e6.css.map",
+    "main.61c7f175.js.map": "/enyaaad/ReactWeather/static/js/main.61c7f175.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb6f56e6.css",
+    "static/js/main.61c7f175.js"
+  ]
+}
